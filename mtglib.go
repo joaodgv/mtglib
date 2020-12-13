@@ -2,7 +2,7 @@ package mtglib
 
 import "log"
 
-type struct Card {
+type Card struct {
 	NAME string
 	COST int
 }
