@@ -1,4 +1,4 @@
-package github.com/joaodgv/mtglib
+package mtglib
 
 type Card struct {
 	NAME string
