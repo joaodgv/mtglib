@@ -1,5 +1,6 @@
 package mtglib
 
-type card struct {
-	
+type Card struct {
+	NAME string
+	COST int
 }
